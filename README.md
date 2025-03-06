@@ -1,4 +1,4 @@
-A DevFem é uma plataforma digital criada com o objetivo de ensinar programação para mulheres cis e trans, promovendo inclusão e representatividade na tecnologia. O projeto foi desenvolvido como parte da iniciativa de capacitar mulheres para ingressar no mercado de TI e contribuir para a diminuição da desigualdade de gênero na área de tecnologia.
+A missão da DevFem é oferecer uma experiência de aprendizado acessível e prática, proporcionando às mulheres as habilidades necessárias para prosperar no mercado de tecnologia. Queremos criar um ambiente inclusivo e apoiar a comunidade feminina em sua jornada de aprendizado e crescimento profissional.
 
 Tecnologias utilizadas:
 
