@@ -9,4 +9,5 @@ A missão da DevFem é oferecer uma experiência de aprendizado acessível e pr�
 - CSS 🎨: Estilização e design visual.
 - JavaScript ⚙️: Funcionalidades e interatividade.
 
-## Juntas podemos transformar o futuro da tecnologia! 🩷✨
+Juntas podemos transformar o futuro da tecnologia! 🩷✨
+
