@@ -1,13 +1,10 @@
-## 🌸 DevFem
+### 💼 Responsive Mini Portfolio
 
-## 🎯 Missão
-A missão da DevFem é oferecer uma experiência de aprendizado acessível e prática, proporcionando às mulheres as habilidades necessárias para prosperar no mercado de tecnologia. Queremos criar um ambiente inclusivo e apoiar a comunidade feminina em sua jornada de aprendizado e crescimento profissional.
-
-## 🔑 Tecnologias Utilizadas
-
-- HTML 🏗️: Estruturação de páginas web.
-- CSS 🎨: Estilização e design visual.
-- JavaScript ⚙️: Funcionalidades e interatividade.
+- Mini site de portfólio responsivo usando HTML, CSS e JavaScript.
+- Contém animações css.
+- Desenvolvido primeiro com a metodologia Mobile First, depois para desktop.
+- Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
 Juntas podemos transformar o futuro da tecnologia! 🩷✨
 
+![preview img](/plataforma_devfem_2023.png)
