@@ -12,4 +12,4 @@
 
 Juntas podemos transformar o futuro da tecnologia! 🩷✨
 
-![preview img](/plataforma_devfem.mp4)
+![preview img](/plataforma_devfem_2023.png)
