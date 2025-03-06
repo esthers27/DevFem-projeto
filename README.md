@@ -1,5 +1,8 @@
 # 💼 Responsive Mini Portfolio
-  Clique aqui para **[Acessar o site](esthers27.github.io/DevFem-projeto/)** ✨
+<a href="https://esthers27.github.io/DevFem-projeto/" target="_blank">
+    Clique aqui para Acessar o site ✨
+</a>
+
  ### 💼 Responsive Mini Portfolio
 
 - Mini site de portfólio responsivo usando HTML, CSS e JavaScript.
